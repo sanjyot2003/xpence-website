@@ -1,3 +1,7 @@
+This is only static website, click and any kind of events are not catched so only static view is provided. 
+
+
+
 # flutter_website
 
 A new Flutter websites.
