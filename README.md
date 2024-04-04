@@ -2,7 +2,7 @@ This is only static website, click and any kind of events are not catched so onl
 
 Visit website at : https://sanjyot-static-flutter-web.netlify.app (It may take some time to load...)
 
-Make sure to reload the web page when you checking the responsiveness of website view.
+Make sure to reload the web page when you'll be checking the responsiveness of website view.
 
 
 
