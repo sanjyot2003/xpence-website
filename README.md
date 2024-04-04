@@ -1,5 +1,7 @@
 This is only static website, click and any kind of events are not catched so only static view is provided. 
 
+Visit website at : https://sanjyot-static-flutter-web.netlify.app
+
 
 
 # flutter_website
